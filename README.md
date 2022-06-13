@@ -13,4 +13,4 @@
 * 8.Adim  *->*  4 5'ten küçük ve 3'ten büyük olduğu için 3'ün sağına yazılır.
 * 9.Adim  *->*  2 1'den büyük olduğu için 1'in sağına yazılır.
 
-
+[Patika Link](https://app.patika.dev/ica)
